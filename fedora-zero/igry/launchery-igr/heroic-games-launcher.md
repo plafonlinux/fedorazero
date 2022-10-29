@@ -1,0 +1,2 @@
+# Heroic Games Launcher
+

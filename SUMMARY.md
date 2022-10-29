@@ -1,24 +1,63 @@
 # Table of contents
 
-* [👋 Добро пожаловать на PLAFON!](README.md)
+## О проекте
 
-## About us
+* [🚀 Проект PLAFON](README.md)
+* [💖 Правила нашего проекта](o-proekte/pravila-nashego-proekta.md)
 
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
-* [💖 Values](about-us/values.md)
+## 🐧 Fedora Zero
 
-## Team
-
-* [👋 Meet the Team!](team/meet-the-team.md)
-
-## Collaborating
-
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
-
-## Policies
-
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [💡 Что такое Fedora Zero?](fedora-zero/chto-takoe-fedora-zero.md)
+* [🦉 В самом начале ...](fedora-zero/v-samom-nachale-.../README.md)
+  * [Разметка диска](fedora-zero/v-samom-nachale-.../razmetka-diska.md)
+  * [Fstab](fedora-zero/v-samom-nachale-.../fstab.md)
+  * [Ускоряем DNF](fedora-zero/v-samom-nachale-.../uskoryaem-dnf.md)
+  * [Обновление системы](fedora-zero/v-samom-nachale-.../obnovlenie-sistemy.md)
+  * [Доп. настройки GNOME](fedora-zero/v-samom-nachale-.../dop.-nastroiki-gnome.md)
+  * [Менеджер расширений](fedora-zero/v-samom-nachale-.../menedzher-rasshirenii/README.md)
+    * [GS Connect](fedora-zero/v-samom-nachale-.../menedzher-rasshirenii/gs-connect.md)
+  * [Терминал](fedora-zero/v-samom-nachale-.../terminal/README.md)
+    * [Включаем "шорткат" для Терминала](fedora-zero/v-samom-nachale-.../terminal/vklyuchaem-shortkat-dlya-terminala.md)
+    * [- Устанавливаем консольный софт (необязательно)](fedora-zero/v-samom-nachale-.../terminal/ustanavlivaem-konsolnyi-soft-neobyazatelno.md)
+* [📦 Репозитории](fedora-zero/repozitorii/README.md)
+  * [RPM Fusion](fedora-zero/repozitorii/rpm-fusion.md)
+  * [Flathub](fedora-zero/repozitorii/flathub.md)
+* [🖥 Видеокарты](fedora-zero/videokarty/README.md)
+  * [AMD RADEON](fedora-zero/videokarty/amd-radeon/README.md)
+    * [Убираем тиринг на AMD](fedora-zero/videokarty/amd-radeon/ubiraem-tiring-na-amd.md)
+    * [Разгон видеокарты AMD](fedora-zero/videokarty/amd-radeon/razgon-videokarty-amd.md)
+    * [Утилита CoreCtrl](fedora-zero/videokarty/amd-radeon/utilita-corectrl.md)
+  * [NVIDIA](fedora-zero/videokarty/nvidia/README.md)
+    * [Установка драйверов для Nvidia](fedora-zero/videokarty/nvidia/ustanovka-draiverov-dlya-nvidia.md)
+    * [Разгон видеокарты NVIDIA](fedora-zero/videokarty/nvidia/razgon-videokarty-nvidia.md)
+    * [Утилита GWE](fedora-zero/videokarty/nvidia/utilita-gwe.md)
+* [💻 Приложения](fedora-zero/prilozheniya/README.md)
+  * [Telegram](fedora-zero/prilozheniya/telegram.md)
+  * [Thunderbird](fedora-zero/prilozheniya/thunderbird.md)
+  * [OnlyOffice](fedora-zero/prilozheniya/onlyoffice.md)
+  * [OBS Studio](fedora-zero/prilozheniya/obs-studio.md)
+  * [KDENlive](fedora-zero/prilozheniya/kdenlive.md)
+  * [Ocenaudio](fedora-zero/prilozheniya/ocenaudio.md)
+  * [Krita](fedora-zero/prilozheniya/krita.md)
+  * [Inkscape](fedora-zero/prilozheniya/inkscape.md)
+  * [YouTube Music](fedora-zero/prilozheniya/youtube-music.md)
+  * [Spotify](fedora-zero/prilozheniya/spotify.md)
+  * [Folliate](fedora-zero/prilozheniya/folliate.md)
+  * [Calibre](fedora-zero/prilozheniya/calibre.md)
+  * [ProtonUP-Qt](fedora-zero/prilozheniya/protonup-qt.md)
+  * [Flatseal](fedora-zero/prilozheniya/flatseal.md)
+* [🍁 Внешний вид](fedora-zero/vneshnii-vid/README.md)
+  * [Иконки Papirus](fedora-zero/vneshnii-vid/ikonki-papirus.md)
+  * [Цветные папки](fedora-zero/vneshnii-vid/cvetnye-papki.md)
+* [🎮 Игры](fedora-zero/igry/README.md)
+  * [Steam](fedora-zero/igry/steam.md)
+  * [ProtonDB](fedora-zero/igry/protondb.md)
+  * [Wine HQ](fedora-zero/igry/wine-hq.md)
+  * [Лаунчеры игр](fedora-zero/igry/launchery-igr/README.md)
+    * [PortProton](fedora-zero/igry/launchery-igr/portproton.md)
+    * [Heroic Games Launcher](fedora-zero/igry/launchery-igr/heroic-games-launcher.md)
+    * [Bottles](fedora-zero/igry/launchery-igr/bottles.md)
+    * [Lutris](fedora-zero/igry/launchery-igr/lutris.md)
+  * [Xbox контроллер](fedora-zero/igry/xbox-kontroller.md)
+* [💾 Бэкап](fedora-zero/bekap/README.md)
+  * [Timeshift](fedora-zero/bekap/timeshift.md)
