@@ -9,3 +9,11 @@ description: Монтаж видео
 ```bash
 flatpak install flathub org.kde.kdenlive
 ```
+
+### Профиль имитирующий раскладку DaVinci Resolve
+
+{% file src="../../.gitbook/assets/youtube_kdenlive_profile.kdenlivelayout" %}
+
+{% embed url="https://www.youtube.com/watch?t=26s&v=myBaghskqe8" %}
+
+{% embed url="https://www.youtube.com/watch?t=51s&v=BY7WnBzvMtg" %}

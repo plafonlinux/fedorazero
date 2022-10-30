@@ -51,3 +51,7 @@ flatpak install flathub org.fedoraproject.MediaWriter
 {% embed url="https://getfedora.org/fmw/FedoraMediaWriter-osx-latest.dmg" %}
 {% endtab %}
 {% endtabs %}
+
+### Как сделать мультизагрузочную флешку?
+
+{% embed url="https://www.youtube.com/watch?v=bbmUcDgNMxk" %}
