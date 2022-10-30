@@ -10,6 +10,7 @@
 * [💡 Что такое Fedora Zero?](fedora-zero/chto-takoe-fedora-zero.md)
 * [🦉 В самом начале ...](fedora-zero/v-samom-nachale-.../README.md)
   * [Разметка диска](fedora-zero/v-samom-nachale-.../razmetka-diska.md)
+  * [Как примонтировать диск в систему](fedora-zero/v-samom-nachale-.../kak-primontirovat-disk-v-sistemu.md)
   * [Fstab](fedora-zero/v-samom-nachale-.../fstab.md)
   * [Ускоряем DNF](fedora-zero/v-samom-nachale-.../uskoryaem-dnf.md)
   * [Обновление системы](fedora-zero/v-samom-nachale-.../obnovlenie-sistemy.md)
