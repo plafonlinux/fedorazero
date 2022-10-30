@@ -46,6 +46,7 @@
   * [Folliate](fedora-zero/prilozheniya/folliate.md)
   * [Calibre](fedora-zero/prilozheniya/calibre.md)
   * [ProtonUP-Qt](fedora-zero/prilozheniya/protonup-qt.md)
+  * [Login Manager](fedora-zero/prilozheniya/login-manager.md)
   * [Flatseal](fedora-zero/prilozheniya/flatseal.md)
 * [🍁 Внешний вид](fedora-zero/vneshnii-vid/README.md)
   * [Иконки Papirus](fedora-zero/vneshnii-vid/ikonki-papirus.md)

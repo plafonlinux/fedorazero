@@ -15,3 +15,13 @@ flatpak install flathub org.telegram.desktop
 ```bash
 sudo flatpak override --env=XCURSOR_SIZE=12 org.telegram.desktop
 ```
+
+### Если Flatpak Telegram не использует установленную тему для курсора мыши
+
+```bash
+flatpak --user override --filesystem=/home/$USER/.icons/:ro org.telegram.desktop
+```
+
+```bash
+flatpak --user override --filesystem=/usr/share/icons/:ro org.telegram.desktop
+```
