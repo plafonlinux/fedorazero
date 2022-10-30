@@ -9,3 +9,9 @@ description: Мессенджер
 ```bash
 flatpak install flathub org.telegram.desktop
 ```
+
+### Во Flatpak версии курсор больше, чем системный
+
+```bash
+sudo flatpak override --env=XCURSOR_SIZE=12 org.telegram.desktop
+```
