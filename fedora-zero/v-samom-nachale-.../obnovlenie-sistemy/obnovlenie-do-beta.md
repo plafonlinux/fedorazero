@@ -11,7 +11,23 @@ description: Если ты совсем рисковый, то можно пой
 ### Как обновиться уже сейчас с Fedora 37 (в будущем просто меняем на 38/39 и т.д.):
 
 ```bash
-sudo dnf upgrade --refresh sudo dnf autoremove sudo dnf clean all sudo dnf install dnf-plugin-system-upgrade -y sudo dnf system-upgrade download --releasever=36 sudo dnf system-upgrade reboot
+sudo dnf upgrade --refresh
+```
+
+```bash
+sudo dnf autoremove && sudo dnf clean all
+```
+
+```bash
+sudo dnf install dnf-plugin-system-upgrade -y
+```
+
+```bash
+sudo dnf system-upgrade download --releasever=37
+```
+
+```bash
+sudo dnf system-upgrade reboot
 ```
 
 Если метод выше не работает или есть ошибки:
