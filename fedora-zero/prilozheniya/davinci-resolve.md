@@ -2,6 +2,8 @@
 
 <figure><img src="../../.gitbook/assets/uOxMCNPt3TI.jpg" alt=""><figcaption></figcaption></figure>
 
+## Подготовка системы
+
 Устанавливаем проприетарный OpenCL в Fedora
 
 ```bash
