@@ -14,7 +14,7 @@ sudo dnf upgrade --refresh
 Тем не менее, команда Fedora Linux рекомендует обновляться штатным способом через магазин приложений Gnome Software.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Jz2s7kxJvz4.jpg" alt="gnome software upgrade update"><figcaption><p>Gnome Software на Fedora Linux</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Jz2s7kxJvz4.jpg" alt="gnome software upgrade update"><figcaption><p>Gnome Software на Fedora Linux</p></figcaption></figure>
 
 ### Можно ли обновляться "через версию"?
 
@@ -30,7 +30,7 @@ sudo dnf upgrade --refresh
 Нет! Конечно-же нет! На момент официального релиза, в ваш магазин приложений, в раздел "Обновления" прилетит банер с предложением обновиться до самой новой версии Fedora. Обновляться сразу не обязательно!
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Upgrade-to-Fedora-36-GUI (1).webp" alt=""><figcaption><p>Обновление с релиза на релиз в Fedora Linux</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Upgrade-to-Fedora-36-GUI (1).webp" alt=""><figcaption><p>Обновление с релиза на релиз в Fedora Linux</p></figcaption></figure>
 
 ### Какой цикл обновлений у Fedora Linux?
 
