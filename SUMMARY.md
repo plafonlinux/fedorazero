@@ -33,6 +33,7 @@
     * [Разгон видеокарты NVIDIA](fedora-zero/videokarty/nvidia/razgon-videokarty-nvidia.md)
     * [Утилита GWE](fedora-zero/videokarty/nvidia/utilita-gwe.md)
 * [💻 Приложения](fedora-zero/prilozheniya/README.md)
+  * [Flatpak](fedora-zero/prilozheniya/flatpak.md)
   * [Telegram](fedora-zero/prilozheniya/telegram.md)
   * [Thunderbird](fedora-zero/prilozheniya/thunderbird.md)
   * [OnlyOffice](fedora-zero/prilozheniya/onlyoffice.md)
