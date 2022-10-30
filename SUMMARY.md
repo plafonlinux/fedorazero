@@ -40,6 +40,7 @@
   * [OnlyOffice](fedora-zero/prilozheniya/onlyoffice.md)
   * [OBS Studio](fedora-zero/prilozheniya/obs-studio.md)
   * [KDENlive](fedora-zero/prilozheniya/kdenlive.md)
+  * [DaVinci Resolve](fedora-zero/prilozheniya/davinci-resolve.md)
   * [Ocenaudio](fedora-zero/prilozheniya/ocenaudio.md)
   * [Krita](fedora-zero/prilozheniya/krita.md)
   * [Inkscape](fedora-zero/prilozheniya/inkscape.md)
