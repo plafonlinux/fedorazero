@@ -63,3 +63,4 @@
   * [Xbox контроллер](fedora-zero/igry/xbox-kontroller.md)
 * [💾 Бэкап](fedora-zero/bekap/README.md)
   * [Timeshift](fedora-zero/bekap/timeshift.md)
+* [🗃 Терминал](fedora-zero/terminal.md)
