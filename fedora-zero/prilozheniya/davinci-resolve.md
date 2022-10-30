@@ -40,5 +40,9 @@ sudo dnf install mesa-libGLU
 Перезапускаем ПК
 {% endhint %}
 
+## Теперь качаем и устанавливаем сам DaVinci Resolve
+
+{% embed url="https://www.blackmagicdesign.com/products/davinciresolve" %}
+
 {% embed url="https://www.youtube.com/watch?v=39_wWFBcP2E" %}
 
