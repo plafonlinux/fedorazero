@@ -4,7 +4,7 @@ description: Самая крутая игровая платформа для Л
 
 # Steam
 
-<figure><img src="../../.gitbook/assets/1634980031764.jpg" alt=""><figcaption><p>Steam запущенный на GNU/Linux</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1634980031764 (1).jpg" alt=""><figcaption><p>Steam запущенный на GNU/Linux</p></figcaption></figure>
 
 ### Установка:
 
