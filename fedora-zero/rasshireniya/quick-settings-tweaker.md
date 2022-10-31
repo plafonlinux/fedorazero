@@ -24,7 +24,7 @@ description: Тонкая настройка нового быстрого ме�
 
  
 
-<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-31 11-16-24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-31 11-16-24 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
