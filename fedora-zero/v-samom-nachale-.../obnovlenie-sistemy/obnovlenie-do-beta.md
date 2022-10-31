@@ -11,7 +11,7 @@ description: Если ты совсем рисковый, то можно пой
 ### Как обновиться уже сейчас с Fedora 37 (в будущем просто меняем на 38/39 и т.д.):
 
 ```bash
-sudo dnf upgrade --refresh
+sudo dnf makecache --refresh && sudo dnf upagrade --refresh
 ```
 
 ```bash
@@ -33,7 +33,7 @@ sudo dnf system-upgrade reboot
 Если метод выше не работает или есть ошибки:
 
 ```bash
-sudo dnf system-upgrade download --releasever=36 --allowerasing
+sudo dnf system-upgrade download --releasever=37 --allowerasing --skip-broken
 ```
 
 Если же и `--allowerasing` не работает, то пробуем:
