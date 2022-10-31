@@ -11,7 +11,7 @@ description: Для обладателей твердотельных накоп
 Открываем `fstab` командой в терминале (CTRL+ALT+T):
 
 ```bash
-sudoedit /etc/fstab/
+sudoedit /etc/fstab
 ```
 
 и добавляем данные параметры после **`compress=zstd:1`**
