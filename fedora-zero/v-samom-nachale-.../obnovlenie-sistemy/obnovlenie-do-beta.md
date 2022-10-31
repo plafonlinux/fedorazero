@@ -63,3 +63,5 @@ sudo fixfiles -B onboot
 
 НЕТ ОСТРОЙ НЕОБХОДИМОСТИ ОБНОВЛЯТЬСЯ C ВЕРСИИ НА ВЕРСИЮ, ЛУЧШЕ НАПРОТИВ ПОДОЖДАТЬ ДНЕЙ 10 С РЕЛИЗА И УЖЕ ПОТОМ ОБНОВИТЬСЯ ШТАТНО ЧЕРЕЗ GNOME SOFTWARE.
 {% endhint %}
+
+<figure><img src="../../../.gitbook/assets/Снимок экрана от 2022-10-31 10-37-15.png" alt=""><figcaption></figcaption></figure>
