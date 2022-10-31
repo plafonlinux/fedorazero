@@ -6,7 +6,7 @@ description: Как узнать работает ли любимый тайтл
 
 <figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-29 10-35-20.png" alt=""><figcaption><p>ProtonDB.com</p></figcaption></figure>
 
-ProtonDB - датабаза игр совместимых с GNU/Linux и портативной игровой косолью Steam Deck.&#x20;
+ProtonDB - датабаза игр совместимых с GNU/Linux и портативной игровой консолью Steam Deck.&#x20;
 
 На данном сайте с легкостью можно узнать "работает ли" и как "работает" интересующая вас игра.
 
