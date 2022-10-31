@@ -37,7 +37,7 @@ sudo dnf system-upgrade download --releasever=37 --allowerasing --skip-broken
 ```
 
 ```bash
-sudo dnf system-upgrade clean
+sudo dnf system-upgrade reboot
 ```
 
 ```bash
