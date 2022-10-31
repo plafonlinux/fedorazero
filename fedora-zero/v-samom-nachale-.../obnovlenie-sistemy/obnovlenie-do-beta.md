@@ -11,7 +11,7 @@ description: Если ты совсем рисковый, то можно пой
 ### Как обновиться уже сейчас с Fedora 37 (в будущем просто меняем на 38/39 и т.д.):
 
 ```bash
-sudo dnf makecache --refresh && sudo dnf upagrade --refresh
+sudo dnf makecache --refresh && sudo dnf upgrade --refresh
 ```
 
 ```bash
