@@ -36,6 +36,14 @@ sudo dnf system-upgrade reboot
 sudo dnf system-upgrade download --releasever=37 --allowerasing --skip-broken
 ```
 
+```bash
+sudo dnf system-upgrade clean
+```
+
+```bash
+sudo dnf system-upgrade clean
+```
+
 Если же и `--allowerasing` не работает, то пробуем:
 
 ```bash
