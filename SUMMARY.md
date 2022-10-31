@@ -15,6 +15,7 @@
   * [Ускоряем DNF](fedora-zero/v-samom-nachale-.../uskoryaem-dnf.md)
   * [Обновление системы](fedora-zero/v-samom-nachale-.../obnovlenie-sistemy.md)
     * [Обновление до Beta](fedora-zero/v-samom-nachale-.../obnovlenie-sistemy/obnovlenie-do-beta.md)
+  * [Меняем версию ядра](fedora-zero/v-samom-nachale-.../menyaem-versiyu-yadra.md)
   * [Доп. настройки GNOME](fedora-zero/v-samom-nachale-.../dop.-nastroiki-gnome.md)
   * [Менеджер расширений](fedora-zero/v-samom-nachale-.../menedzher-rasshirenii/README.md)
     * [GS Connect](fedora-zero/v-samom-nachale-.../menedzher-rasshirenii/gs-connect.md)
