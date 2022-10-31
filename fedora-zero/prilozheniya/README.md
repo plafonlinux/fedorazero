@@ -1,5 +1,5 @@
 ---
-description: '*Практически весь софт я устанавливаю из Flathub'
+description: 'Практически весь софт я устанавливаю из Flathub'
 cover: ../../.gitbook/assets/Снимок экрана от 2022-10-29 11-08-00.png
 coverY: 0
 ---
