@@ -73,3 +73,7 @@
   * [Терминал на ZSH](fedora-zero/terminal/terminal-na-zsh.md)
   * [Neofetch](fedora-zero/terminal/neofetch.md)
   * [Алиасы](fedora-zero/terminal/aliasy.md)
+
+## ☢ АРХИВ
+
+* [\[Архивировано\] DaVinci Resolve](arkhiv/arkhivirovano-davinci-resolve.md)
