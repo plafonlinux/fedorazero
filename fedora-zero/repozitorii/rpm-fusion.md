@@ -34,6 +34,22 @@ sudo dnf install \
   https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
 ```
 
+{% hint style="success" %}
+Рекомендуется перезагрузить сессию, либо сам ПК.
+{% endhint %}
+
+
+
+
+
+
+
+
+
+{% hint style="danger" %}
+ТОЛЬКО ДЛЯ ОПЫТНЫХ ПОЛЬЗОВАТЕЛЕЙ! НА СВОЙ СТРАХ И РИСК!
+{% endhint %}
+
 United RPMs (опционально) | [GitHub](https://unitedrpms.github.io/#repository)
 
 {% hint style="info" %}
@@ -47,7 +63,3 @@ sudo rpm --import https://raw.githubusercontent.com/UnitedRPMs/unitedrpms/master
 ```bash
 sudo dnf -y install https://github.com/UnitedRPMs/unitedrpms/releases/download/20/unitedrpms-$(rpm -E %fedora)-20.fc$(rpm -E %fedora).noarch.rpm
 ```
-
-{% hint style="success" %}
-Рекомендуется перезагрузить сессию, либо сам ПК.
-{% endhint %}
