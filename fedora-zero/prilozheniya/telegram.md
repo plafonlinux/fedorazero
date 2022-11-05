@@ -25,3 +25,13 @@ flatpak --user override --filesystem=/home/$USER/.icons/:ro org.telegram.desktop
 ```bash
 flatpak --user override --filesystem=/usr/share/icons/:ro org.telegram.desktop
 ```
+
+### Включаем системную рамку на Wayland
+
+Переводим Telegram на XWayland в утилите Flatseal
+
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-11-05 13-04-33 (1).png" alt=""><figcaption></figcaption></figure>
+
+Включаем рамку в настройках Telegram
+
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-11-05 13-04-56.png" alt=""><figcaption></figcaption></figure>
