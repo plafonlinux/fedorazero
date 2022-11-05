@@ -34,7 +34,11 @@ sudo dnf install \
   https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
 ```
 
-United RPMs (опционально) | [Что это такое?](https://unitedrpms.github.io/)
+United RPMs (опционально) | [GitHub](https://unitedrpms.github.io/#repository)
+
+{% hint style="info" %}
+**UnitedRPM** - коммьюнити репозиторий, cодержащий софт, который не добавляют почему-то даже в RPM Fusion (Free и Nonfree), например, проприетарные версии x264 и x265, или такие же версии от Valve.
+{% endhint %}
 
 ```bash
 sudo rpm --import https://raw.githubusercontent.com/UnitedRPMs/unitedrpms/master/URPMS-GPG-PUBLICKEY-Fedora
