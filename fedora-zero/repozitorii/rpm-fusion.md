@@ -20,8 +20,30 @@ sudo dnf search НАЗВАНИЕ_ПАКЕТА
 
 <figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-29 12-48-51.png" alt=""><figcaption></figcaption></figure>
 
+_Free_ repository
+
 ```bash
-sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpms
+sudo dnf install \
+  https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
 ```
 
-После рекомендуется перезагрузить сессию, либо сам ПК.
+_Nonfree_ repository
+
+```bash
+sudo dnf install \
+  https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+```
+
+United RPMs (опционально) | [Что это такое?](https://unitedrpms.github.io/)
+
+```bash
+sudo rpm --import https://raw.githubusercontent.com/UnitedRPMs/unitedrpms/master/URPMS-GPG-PUBLICKEY-Fedora
+```
+
+```bash
+sudo dnf -y install https://github.com/UnitedRPMs/unitedrpms/releases/download/20/unitedrpms-$(rpm -E %fedora)-20.fc$(rpm -E %fedora).noarch.rpm
+```
+
+{% hint style="success" %}
+Рекомендуется перезагрузить сессию, либо сам ПК.
+{% endhint %}
