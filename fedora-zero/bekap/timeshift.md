@@ -15,7 +15,7 @@ sudo dnf install timeshift
 ```
 
 {% hint style="warning" %}
-Для того чтобы работал корректно режим Btrfs необходимо [перенастроить Btrfs subvolumes](https://plafon.gitbook.io/fedora-zero/fedora-zero/bekap/nastraivaem-btrfs-subvolumes), так как утилита Timeshift создавалась под deb-подобные дистрибутивы.
+Для того чтобы работал корректно режим Btrfs необходимо [перенастроить Btrfs subvolumes](https://plafon.gitbook.io/fedora-zero/fedora-zero/bekap/nastraivaem-btrfs-subvolumes), так как утилита Timeshift создавалась под deb-подобные дистрибутивы и поэтому не понимает маркировку subvolumes в Fedora Linux.
 {% endhint %}
 
 {% hint style="success" %}
