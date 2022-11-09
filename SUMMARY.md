@@ -76,6 +76,8 @@
   * [Терминал на ZSH](fedora-zero/terminal/terminal-na-zsh.md)
   * [Neofetch](fedora-zero/terminal/neofetch.md)
   * [Алиасы](fedora-zero/terminal/aliasy.md)
+* [🧬 Виртуализация](fedora-zero/virtualizaciya/README.md)
+  * [VMVare Workstation Play](fedora-zero/virtualizaciya/vmvare-workstation-play.md)
 
 ## ☢ АРХИВ
 
