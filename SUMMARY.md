@@ -71,6 +71,7 @@
     * [Lutris](fedora-zero/igry/launchery-igr/lutris.md)
   * [Xbox контроллер](fedora-zero/igry/xbox-kontroller.md)
 * [💾 Бэкап](fedora-zero/bekap/README.md)
+  * [Настраиваем BTRFS subvolumes](fedora-zero/bekap/nastraivaem-btrfs-subvolumes.md)
   * [Timeshift](fedora-zero/bekap/timeshift.md)
 * [🗃 Терминал](fedora-zero/terminal/README.md)
   * [Терминал на ZSH](fedora-zero/terminal/terminal-na-zsh.md)
