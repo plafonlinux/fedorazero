@@ -10,6 +10,10 @@
 sudo bash ./VMware-Player-Full-16.2.4-20089737.x86_64.bundle --eulas-agreed --required
 ```
 
+{% hint style="info" %}
+С релизом ядра 6.0 появился мелкий баг, необходимо перекомпелировать vmnet и vmmon
+{% endhint %}
+
 ```bash
 sudo vmware-modconfig --console --install-all
 ```
