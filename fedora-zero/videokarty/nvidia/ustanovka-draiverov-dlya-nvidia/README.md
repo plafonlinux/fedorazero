@@ -4,7 +4,7 @@
 В Fedora Linux 35 репозиторий с драйверами Nvidia теперь включается по дефолту, если при первичной настройке системы поставить галочку на активацию репозитория со стороннего репозитория.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/cVVJheR1328.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/cVVJheR1328.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Установка через Терминал:
 
