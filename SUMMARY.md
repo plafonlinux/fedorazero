@@ -24,6 +24,7 @@
 * [📦 Репозитории](fedora-zero/repozitorii/README.md)
   * [RPM Fusion](fedora-zero/repozitorii/rpm-fusion.md)
   * [Flathub](fedora-zero/repozitorii/flathub.md)
+  * [Mesa-freeworld](fedora-zero/repozitorii/mesa-freeworld.md)
 * [🖥 Видеокарты](fedora-zero/videokarty/README.md)
   * [AMD RADEON](fedora-zero/videokarty/amd-radeon/README.md)
     * [Убираем тиринг на AMD](fedora-zero/videokarty/amd-radeon/ubiraem-tiring-na-amd.md)
