@@ -6,44 +6,84 @@
 
 {% embed url="https://www.vmware.com/go/getplayer-linux" %}
 
+Установка VMWare&#x20;
+
 ```bash
 sudo bash ./VMware-Player-Full-16.2.4-20089737.x86_64.bundle --eulas-agreed --required
 ```
 
+```bash
+sudo vmware-modconfig --console --install-all
+```
+
+Установка linux-headers
+
+```bash
+sudo dnf install kernel-devel
+```
+
+Установка модулей (для ядра 6.0 и выше)
+
+```bash
+wget https://github.com/mkubecek/vmware-host-modules/archive/player-16.2.4.tar.gz
+```
+
+```bash
+tar -xzf player-16.2.4.tar.gz
+```
+
+```bash
+cd vmware-host-modules-player-16.2.4/
+```
+
+```bash
+sudo make && sudo make install
+```
+
+```bash
+mv vmmon-only vmmon
+```
+
+```bash
+mv vmnet-only vmnet
+```
+
+```bash
+sudo cp -a vmmon vmnet /usr/lib/vmware/modules/source/
+```
+
+```bash
+sudo vmware-modconfig —console —install-all
+```
+
+Перезапускаем сервис:
+
+```bash
+systemctl restart vmware.service
+```
+
+Проверяем статус сервиса:
+
+```bash
+systemctl status vmware.service
+```
+
 {% hint style="info" %}
-С релизом ядра 6.0 появился мелкий баг, необходимо перекомпелировать vmnet и vmmon
+Запускаем Vmware и закрываем.
 {% endhint %}
 
-```bash
-sudo vmware-modconfig --console --install-all
-```
-
-Второй метод:
+Включаем 3D-ускорение:
 
 ```bash
-wget https://github.com/mkubecek/vmware-host-modules/archive/workstation-16.2.1.tar.gz
+sudo nano ~/.vmware/preferences 
 ```
 
-```bash
-tar -xzf workstation-16.2.1.tar.gz
-```
+надо добавить строчку
 
 ```bash
-cd vmware-host-modules-workstation-16.2.1
+mks.gl.allowBlacklistedDrivers = "TRUE"
 ```
 
-```bash
-tar -cf vmmon.tar vmmon-only
-```
-
-```bash
-tar -cf vmnet.tar vmnet-only
-```
-
-```bash
-sudo cp -v vmmon.tar vmnet.tar /usr/lib/vmware/modules/source/
-```
-
-```bash
-sudo vmware-modconfig --console --install-all
-```
+{% hint style="success" %}
+Всё, VMware теперь полностью готов к работе! Спасибо нашему подписчику в VK
+{% endhint %}
