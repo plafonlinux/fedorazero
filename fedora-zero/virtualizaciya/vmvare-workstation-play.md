@@ -6,7 +6,7 @@
 
 {% embed url="https://www.vmware.com/go/getplayer-linux" %}
 
-Установка VMWare&#x20;
+## Установка VMWare&#x20;
 
 ```bash
 sudo bash ./VMware-Player-Full-16.2.4-20089737.x86_64.bundle --eulas-agreed --required
@@ -16,13 +16,13 @@ sudo bash ./VMware-Player-Full-16.2.4-20089737.x86_64.bundle --eulas-agreed --re
 sudo vmware-modconfig --console --install-all
 ```
 
-Установка linux-headers
+## Установка linux-headers
 
 ```bash
 sudo dnf install kernel-devel
 ```
 
-Установка модулей (для ядра 6.0 и выше)
+## Установка модулей (для ядра 6.0 и выше)
 
 ```bash
 wget https://github.com/mkubecek/vmware-host-modules/archive/player-16.2.4.tar.gz
@@ -68,11 +68,13 @@ systemctl restart vmware.service
 systemctl status vmware.service
 ```
 
+должен быть <mark style="background-color:green;">**active**</mark>
+
 {% hint style="info" %}
 Запускаем Vmware и закрываем.
 {% endhint %}
 
-Включаем 3D-ускорение:
+## Включаем 3D-ускорение:
 
 ```bash
 sudo nano ~/.vmware/preferences 
