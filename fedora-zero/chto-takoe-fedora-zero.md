@@ -24,7 +24,7 @@ coverY: 0
 
 <details>
 
-<summary>Как угостить автора кофем?</summary>
+<summary>Как угостить автора кофе?</summary>
 
 **Спонсорство на YouTube:** [https://bit.ly/3MHNzWa](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbEx4ZFh4eTRoOVgteDJhUDRwUTR6dng2Wmd2Z3xBQ3Jtc0tsNXd1QUdCc1l3ZzFta3V1UWVaalk1bl9oVlkwWF83VXNDdHNyTEZ4amV4NmhWeFZ1WE5waldUeDBCWTl6Q2xNOWpHTk5fOXJNUWpSUWo5UzF1OW9IcVd5Y2NkUXVHN3loM2dveFdiT0pmejVOdlZzaw\&q=https%3A%2F%2Fbit.ly%2F3MHNzWa\&v=PXZtfis4CdM)&#x20;
 
