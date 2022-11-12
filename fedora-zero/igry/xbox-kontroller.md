@@ -17,6 +17,10 @@ cd xone
 ```
 
 ```bash
+sudo dnf install dkms
+```
+
+```bash
 sudo ./install.sh --release
 ```
 
