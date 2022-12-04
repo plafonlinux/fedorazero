@@ -15,7 +15,7 @@ Wine - набор инструментов помогающих "воссозд�
 <figure><img src="../../.gitbook/assets/wine-hq.webp" alt="wine hq fedora linux"><figcaption><p>Wine is not an emulator</p></figcaption></figure>
 
 ```bash
-sudo dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/32/winehq.rep
+sudo dnf config-manager --add-repo https://dl.winehq.org/wine-builds/fedora/37/winehq.repo
 ```
 
 ```bash
@@ -23,7 +23,7 @@ sudo dnf install winehq-devel
 ```
 
 ```bash
-wget https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricksas
+wget https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks
 ```
 
 ```bash
