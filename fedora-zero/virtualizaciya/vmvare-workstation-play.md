@@ -89,3 +89,9 @@ mks.gl.allowBlacklistedDrivers = "TRUE"
 {% hint style="success" %}
 Всё, VMware теперь полностью готов к работе! Спасибо нашему подписчику в VK
 {% endhint %}
+
+### Удалить VMware
+
+```bash
+vmware-installer -u vmware-workstation
+```
