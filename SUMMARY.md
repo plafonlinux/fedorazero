@@ -34,6 +34,7 @@
   * [NVIDIA](fedora-zero/videokarty/nvidia/README.md)
     * [Установка драйверов для Nvidia](fedora-zero/videokarty/nvidia/ustanovka-draiverov-dlya-nvidia/README.md)
       * [Для более "старых" Nvidia](fedora-zero/videokarty/nvidia/ustanovka-draiverov-dlya-nvidia/dlya-bolee-starykh-nvidia.md)
+      * [Установка драйверов для NVIDIA Optimus](fedora-zero/videokarty/nvidia/ustanovka-draiverov-dlya-nvidia/ustanovka-draiverov-dlya-nvidia-optimus.md)
     * [Разгон видеокарты NVIDIA](fedora-zero/videokarty/nvidia/razgon-videokarty-nvidia.md)
     * [Утилита GWE](fedora-zero/videokarty/nvidia/utilita-gwe.md)
 * [💻 Приложения](fedora-zero/prilozheniya/README.md)
