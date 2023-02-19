@@ -18,6 +18,7 @@
   * [Меняем версию ядра](fedora-zero/v-samom-nachale-.../menyaem-versiyu-yadra.md)
   * [Установка кодеков](fedora-zero/v-samom-nachale-.../ustanovka-kodekov.md)
   * [Доп. настройки GNOME](fedora-zero/v-samom-nachale-.../dop.-nastroiki-gnome.md)
+  * [Включаем дробное масштабирование](fedora-zero/v-samom-nachale-.../vklyuchaem-drobnoe-masshtabirovanie.md)
   * [Терминал](fedora-zero/v-samom-nachale-.../terminal/README.md)
     * [Включаем "шорткат" для Терминала](fedora-zero/v-samom-nachale-.../terminal/vklyuchaem-shortkat-dlya-terminala.md)
     * [- Устанавливаем консольный софт (необязательно)](fedora-zero/v-samom-nachale-.../terminal/ustanavlivaem-konsolnyi-soft-neobyazatelno.md)
