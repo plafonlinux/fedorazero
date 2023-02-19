@@ -11,7 +11,7 @@ gsettings set org.gnome.mutter experimental-features “[‘scale-monitor-frameb
 ```
 
 {% hint style="info" %}
-Но включение дробного масштабирования, может привести к "мыльной" картинке, поэтому лично я увиличиваю "коэффициент масштабирования" самого текста в Gnome Tweaks.
+Но включение дробного масштабирования, может привести к "мыльной" картинке, поэтому лично я увeличиваю "коэффициент масштабирования" самого текста в [Gnome Tweaks](https://plafon.gitbook.io/fedora-zero/fedora-zero/v-samom-nachale-.../dop.-nastroiki-gnome).
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Снимок экрана от 2023-02-19 18-57-03.png" alt=""><figcaption></figcaption></figure>
