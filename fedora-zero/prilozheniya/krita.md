@@ -9,3 +9,11 @@ description: Редактор изображений
 ```bash
 flatpak install flathub org.kde.krita
 ```
+
+Включаем Preview для проектов Krita в Nautilus
+
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2023-03-07 16-56-59.png" alt=""><figcaption></figcaption></figure>
+
+```bash
+sudo dnf install gnome-kra-ora-thumbnailer
+```
