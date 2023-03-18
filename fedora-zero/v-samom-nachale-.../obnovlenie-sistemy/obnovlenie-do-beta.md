@@ -23,7 +23,7 @@ sudo dnf install dnf-plugin-system-upgrade -y
 ```
 
 ```bash
-sudo dnf system-upgrade download --releasever=37
+sudo dnf system-upgrade download --releasever=38
 ```
 
 ```bash
@@ -33,7 +33,7 @@ sudo dnf system-upgrade reboot
 Если метод выше не работает или есть ошибки:
 
 ```bash
-sudo dnf system-upgrade download --releasever=37 --allowerasing --skip-broken
+sudo dnf system-upgrade download --releasever=38 --allowerasing --skip-broken
 ```
 
 ```bash
