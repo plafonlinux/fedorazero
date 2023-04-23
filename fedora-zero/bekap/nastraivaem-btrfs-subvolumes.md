@@ -65,7 +65,7 @@ sudo mv /mnt/btrfs/home /mnt/btrfs/@home
 ## Затем правим `fstab`:
 
 ```bash
-sudo nano /etc/fstab
+sudo vim /etc/fstab
 ```
 
 {% hint style="success" %}

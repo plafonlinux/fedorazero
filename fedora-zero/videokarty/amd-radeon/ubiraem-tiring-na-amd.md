@@ -11,7 +11,7 @@ description: Только для X.org
 <figure><img src="../../../.gitbook/assets/Tearing-dello-schermo-o-input-lag.jpg" alt=""><figcaption><p>Пример тиринга</p></figcaption></figure>
 
 ```bash
-sudo nano /etc/X11/xorg.conf.d/20-amdgpu.conf
+sudo vim /etc/X11/xorg.conf.d/20-amdgpu.conf
 ```
 
 и вставляем:

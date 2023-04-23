@@ -1,4 +1,4 @@
-# VMware Workstation Play
+# VMVare Workstation Play
 
 ## Скачиваем VMware Workstation
 
@@ -6,7 +6,7 @@
 
 {% embed url="https://www.vmware.com/go/getplayer-linux" %}
 
-## Установка VMware&#x20;
+## Установка VMware
 
 ```bash
 sudo bash ./VMware-Player-Full-16.2.4-20089737.x86_64.bundle --eulas-agreed --required
@@ -77,7 +77,7 @@ systemctl status vmware.service
 ## Включаем 3D-ускорение:
 
 ```bash
-sudo nano ~/.vmware/preferences 
+sudo vim ~/.vmware/preferences 
 ```
 
 надо добавить строчку

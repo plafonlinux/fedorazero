@@ -13,7 +13,7 @@ sudo mkdir /etc/X11/xorg.conf.d/
 ```
 
 ```bash
-sudo nano /etc/X11/xorg.conf.d/20-nvidia.conf
+sudo vim /etc/X11/xorg.conf.d/20-nvidia.conf
 ```
 
 далее добавляем в файл:
