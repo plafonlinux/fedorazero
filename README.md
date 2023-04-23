@@ -15,4 +15,5 @@ Fedora Zero это текстовой помощник от проекта PLAFO
 Как угостить автора кофе?
 
 Спонсорство на YouTube: https://bit.ly/3MHNzWa 
+
 Заказать рекламу в Телеграме: https://t.me/plafonyoutube
