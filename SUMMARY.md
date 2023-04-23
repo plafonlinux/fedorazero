@@ -23,6 +23,7 @@
   * [Терминал](fedora-zero/v-samom-nachale-.../terminal/README.md)
     * [Включаем "шорткат" для Терминала](fedora-zero/v-samom-nachale-.../terminal/vklyuchaem-shortkat-dlya-terminala.md)
     * [- Устанавливаем консольный софт (необязательно)](fedora-zero/v-samom-nachale-.../terminal/ustanavlivaem-konsolnyi-soft-neobyazatelno.md)
+    * [VIM - Горячие клавишы](fedora-zero/v-samom-nachale-.../terminal/vim-goryachie-klavishy.md)
 * [📦 Репозитории](fedora-zero/repozitorii/README.md)
   * [RPM Fusion](fedora-zero/repozitorii/rpm-fusion.md)
   * [Flathub](fedora-zero/repozitorii/flathub.md)
