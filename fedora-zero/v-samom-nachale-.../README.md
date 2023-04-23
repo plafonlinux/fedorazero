@@ -16,6 +16,8 @@ description: Ты всё-таки решился?!
 
 <figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-29 12-24-46.png" alt=""><figcaption><p>Официальный сайт Fedora Linux</p></figcaption></figure>
 
+{% embed url="https://www.youtube.com/watch?v=SDvU1Lfo52w" %}
+
 {% embed url="https://getfedora.org/ru/workstation/download/" %}
 Скачать Fedora Workstation
 {% endembed %}
