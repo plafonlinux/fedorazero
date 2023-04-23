@@ -18,6 +18,8 @@ description: Ты всё-таки решился?!
 
 {% embed url="https://www.youtube.com/watch?v=SDvU1Lfo52w" %}
 
+### Скачать самую свежую Fedora Linux:
+
 {% embed url="https://fedoraproject.org/" %}
 
 ### Какие редакции (спины) ещё есть у Fedora Linux?
