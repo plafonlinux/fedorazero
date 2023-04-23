@@ -22,7 +22,7 @@
   * [Обои от PLAFON](fedora-zero/v-samom-nachale-.../oboi-ot-plafon.md)
   * [Терминал. Начало ...](fedora-zero/v-samom-nachale-.../terminal/README.md)
     * [Включаем "шорткат" для Терминала](fedora-zero/v-samom-nachale-.../terminal/vklyuchaem-shortkat-dlya-terminala.md)
-    * [- Устанавливаем консольный софт (необязательно)](fedora-zero/v-samom-nachale-.../terminal/ustanavlivaem-konsolnyi-soft-neobyazatelno.md)
+    * [- Устанавливаем консольный софт](fedora-zero/v-samom-nachale-.../terminal/ustanavlivaem-konsolnyi-soft-neobyazatelno.md)
     * [Консольные команды для GNU/Linux](fedora-zero/v-samom-nachale-.../terminal/konsolnye-komandy-dlya-gnu-linux.md)
     * [VIM - Горячие клавишы](fedora-zero/v-samom-nachale-.../terminal/vim-goryachie-klavishy.md)
 * [📦 Репозитории](fedora-zero/repozitorii/README.md)
