@@ -1,12 +1,12 @@
-# VMVare Workstation Play
+# VMware Workstation Play
 
-## Скачиваем VMVare Workstation
+## Скачиваем VMware Workstation
 
-<figure><img src="../../.gitbook/assets/tn-work-station-player.png" alt="VMVare Workstation Player Fedora Workstation Gnome"><figcaption><p>VMVare Workstation Player</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tn-work-station-player.png" alt="VMware Workstation Player Fedora Workstation Gnome"><figcaption><p>VMware Workstation Player</p></figcaption></figure>
 
 {% embed url="https://www.vmware.com/go/getplayer-linux" %}
 
-## Установка VMWare&#x20;
+## Установка VMware&#x20;
 
 ```bash
 sudo bash ./VMware-Player-Full-16.2.4-20089737.x86_64.bundle --eulas-agreed --required
@@ -71,7 +71,7 @@ systemctl status vmware.service
 должен быть <mark style="background-color:green;">**active**</mark>
 
 {% hint style="info" %}
-Запускаем Vmware и закрываем.
+Запускаем VMware и закрываем.
 {% endhint %}
 
 ## Включаем 3D-ускорение:
