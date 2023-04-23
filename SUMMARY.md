@@ -20,7 +20,7 @@
   * [Доп. настройки GNOME](fedora-zero/v-samom-nachale-.../dop.-nastroiki-gnome.md)
   * [Включаем дробное масштабирование](fedora-zero/v-samom-nachale-.../vklyuchaem-drobnoe-masshtabirovanie.md)
   * [Обои от PLAFON](fedora-zero/v-samom-nachale-.../oboi-ot-plafon.md)
-  * [Терминал](fedora-zero/v-samom-nachale-.../terminal/README.md)
+  * [Терминал. Начало ...](fedora-zero/v-samom-nachale-.../terminal/README.md)
     * [Включаем "шорткат" для Терминала](fedora-zero/v-samom-nachale-.../terminal/vklyuchaem-shortkat-dlya-terminala.md)
     * [- Устанавливаем консольный софт (необязательно)](fedora-zero/v-samom-nachale-.../terminal/ustanavlivaem-konsolnyi-soft-neobyazatelno.md)
     * [VIM - Горячие клавишы](fedora-zero/v-samom-nachale-.../terminal/vim-goryachie-klavishy.md)
