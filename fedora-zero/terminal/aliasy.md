@@ -26,17 +26,34 @@ description: Alias
     alias f="lsb_release -sd"
     alias m="inxi -G |grep Mesa"
     alias age="stat / | grep "Birth""
+    alias ram="sudo dmidecode -t memory | grep Speed"
+    alias cpu="lscpu | grep Model"
+    alias cpuc="lscpu"
+    alias w="wine --version"
+    alias pc="inxi -Ixxx"
+    alias net="inxi -Nxxx"
     #
     # DNF
     #
-    alias up="sudo dnf makecache --refresh && sudo dnf upgrade --refresh -y && flatpak update -y"
-    alias clean="sudo dnf autoremove -y && dnf clean all && flatpak uninstall --unused -y && sudo journalctl --vacuum-time=2weeks"
+    alias up="sudo dnf upgrade --refresh --best --allowerasing -y && flatpak update -y"
+    alias clean="sudo dnf autoremove -y && dnf clean all && flatpak uninstall --unused -y && sudo journalctl --vacuum-time=1weeks"
+    alias dnfr="sudo dnf autoremove"
+    alias dnfs="dnf search"
+    alias dnfi="sudo dnf install"
     #
     # PC
     #
     alias son="sudo systemctl suspend"
-    alias logout="loginctl terminate-user ИМЯ_ВАШЕГО_ПОЛЬЗОВАТЕЛЯ"
+    alias logout="loginctl terminate-user plafon"
+    alias krista="up && clean && son"
+    alias plafon="up && clean && clear && n"
     alias ls="ls --color"
     alias l="lsd --date '+%d.%m.%Y %H:%M' -lah"
     #
+    # Flatpak
+    #
+    alias fli="flatpak install --noninteractive -y flathub"
+    alias flr="flatpak remove --noninteractive -y"
+    alias fr="flatpak repair"
+    alias fl="flatpak list"
 ```
