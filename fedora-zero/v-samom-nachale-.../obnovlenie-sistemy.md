@@ -30,7 +30,7 @@ sudo dnf upgrade --refresh
 Нет! Конечно-же нет! На момент официального релиза, в ваш магазин приложений, в раздел "Обновления" прилетит банер с предложением обновиться до самой новой версии Fedora. Обновляться сразу не обязательно!
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Upgrade-to-Fedora-36-GUI (1).webp" alt=""><figcaption><p>Обновление с релиза на релиз в Fedora Linux</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Upgrade-to-Fedora-36-GUI.webp" alt=""><figcaption><p>Обновление с релиза на релиз в Fedora Linux</p></figcaption></figure>
 
 ### Какой цикл обновлений у Fedora Linux?
 

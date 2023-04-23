@@ -28,20 +28,20 @@ description: Тонкая настройка нового быстрого ме�
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-31 11-16-34 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-31 11-16-34.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-31 11-16-24 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-31 11-16-24.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-31 11-16-22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-31 11-16-22 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-31 11-16-18 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-31 11-16-18.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-31 11-17-54.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-31 11-17-54 (1).png" alt=""><figcaption></figcaption></figure>

@@ -2,7 +2,7 @@
 description: >-
   Fedora Zero это текстовой помощник от проекта PLAFON для детальной настройки
   дистрибутива Fedora и его производных.
-cover: ../.gitbook/assets/vk_site.png
+cover: ../.gitbook/assets/vk_site (1).png
 coverY: 0
 ---
 

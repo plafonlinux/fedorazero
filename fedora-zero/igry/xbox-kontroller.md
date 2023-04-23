@@ -1,6 +1,6 @@
 # Xbox контроллер
 
-<figure><img src="../../.gitbook/assets/1634980031764.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1634980031764 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### - Драйвер для этого _Wireless донгла_, называется **xone**
 

@@ -39,3 +39,13 @@ _Чтобы сохранить изменения:_ **`CTRL+O — Enter — CTRL
 ```bash
 sudo dnf autoremove && sudo dnf clean all
 ```
+
+### Добавляем автоматическое обновление зеркал в фоне (по идеи должно ускорить dnf)
+
+```bash
+sudo dnf install dnf-automatic
+```
+
+```bash
+sudo systemctl enable dnf-automatic.timer
+```

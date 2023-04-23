@@ -10,23 +10,23 @@ flatpak install flathub com.mattjakeman.ExtensionManager
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Снимок экрана от 2022-10-29 13-14-25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-29 13-14-25 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Снимок экрана от 2022-10-29 13-14-31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-29 13-14-31.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Снимок экрана от 2022-10-29 13-14-37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-29 13-14-37.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 ### Мой основной список расширений
 
-<figure><img src="../../../.gitbook/assets/Снимок экрана от 2022-10-29 13-14-25 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-29 13-14-25.png" alt=""><figcaption></figcaption></figure>
 
-Включаем трэй: `Appindicator Kstatus` ****&#x20;
+Включаем трэй: `Appindicator Kstatus`&#x20;
 
 Мониторинг системы: `Vitals`&#x20;
 
