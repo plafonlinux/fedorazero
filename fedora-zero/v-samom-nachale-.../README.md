@@ -18,9 +18,7 @@ description: Ты всё-таки решился?!
 
 {% embed url="https://www.youtube.com/watch?v=SDvU1Lfo52w" %}
 
-{% embed url="https://getfedora.org/ru/workstation/download/" %}
-Скачать Fedora Workstation
-{% endembed %}
+{% embed url="https://fedoraproject.org/" %}
 
 ### Какие редакции (спины) ещё есть у Fedora Linux?
 
