@@ -10,8 +10,6 @@ description: Ты всё-таки решился?!
 Единственная официальная версия Fedora является именно Workstastion, c рабочим окружением GNOME. Именно этой редакции уделяется больше всего внимания со стороны разработчиков.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/PXL_20221029_103214073.jpg" alt="fedora linux workstation gnome "><figcaption><p>Fedora Workstation 36</p></figcaption></figure>
-
 ### Где скачать Fedora Linux?
 
 <figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-29 12-24-46.png" alt=""><figcaption><p>Официальный сайт Fedora Linux</p></figcaption></figure>
