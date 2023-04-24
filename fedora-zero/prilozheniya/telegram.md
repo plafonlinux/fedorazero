@@ -30,7 +30,7 @@ flatpak --user override --filesystem=/usr/share/icons/:ro org.telegram.desktop
 
 Переводим Telegram на XWayland в утилите Flatseal
 
-<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-11-05 13-04-33 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-11-05 13-04-33 (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Включаем рамку в настройках Telegram
 
