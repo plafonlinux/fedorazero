@@ -1,6 +1,6 @@
 # 🚀 Проект PLAFON
 
-<figure><img src=".gitbook/assets/PXL_20221029_103214073.jpg" alt=""><figcaption><p>Fedora Linux Workstation 37</p></figcaption></figure>
+<figure><img src=".gitbook/assets/PXL_20221029_103214073.jpg" alt=""><figcaption></figcaption></figure>
 
 [Fedora Zero](https://plafon.gitbook.io/fedora-zero/) - это текстовой помощник от проекта PLAFON для детальной настройки дистрибутива Fedora и его производных. Представлен также [полуавтоматический скрипт написанный на Bash](https://github.com/plafonlinux/fedorazero\_bash).
 
