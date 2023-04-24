@@ -15,5 +15,3 @@
 📺 Спонсорство на [YouTube](https://bit.ly/3MHNzWa) | [Стать спонсором проекта PLAFON](https://bit.ly/3MHNzWa)
 
 💵 Заказать рекламу в [Телеграме](https://t.me/plafonyoutube) | 💬 По вопросам рекламы: [Aнтон](https://t.me/Toxblh)
-
-{% embed url="https://www.youtube.com/watch?v=SDvU1Lfo52w" %}
