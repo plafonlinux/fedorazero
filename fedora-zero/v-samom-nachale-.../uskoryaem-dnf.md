@@ -12,15 +12,9 @@
 sudo gnome-text-editor /etc/dnf/dnf.conf
 ```
 
-и вставляем отсутвующие параметры:
+и добавляем в конец файла следующие параметры:
 
 ```bash
-[main]
-gpgcheck=True
-installonly_limit=3
-clean_requirements_on_remove=True
-best=False
-skip_if_unavailable=True
 fastestmirror=True
 max_parallel_downloads=10
 defaultyes=True
