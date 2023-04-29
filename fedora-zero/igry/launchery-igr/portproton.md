@@ -12,7 +12,7 @@ description: Запускаем приложения/игры Windows через
 
 {% embed url="https://linux-gaming.ru/2022/09/03/portproton/" %}
 
-<figure><img src="../../../.gitbook/assets/Снимок экрана от 2022-11-09 07-58-13 (1).png" alt="portproton proton wine windows fedora fedoralinux linux"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Снимок экрана от 2022-11-09 07-58-13 (1) (1).png" alt="portproton proton wine windows fedora fedoralinux linux"><figcaption></figcaption></figure>
 
 ## Установка Port Proton на Fedora Linux
 
@@ -48,7 +48,7 @@ wget -c "https://github.com/Castro-Fidel/PortWINE/raw/master/portwine_install_sc
 wget -c "https://github.com/Castro-Fidel/PortWINE/raw/master/portwine_install_script/PortProton_1.0" && sh PortProton_1.0 -eng
 ```
 
-<figure><img src="../../../.gitbook/assets/Снимок экрана от 2022-11-09 07-58-13 (1) (1) (1).png" alt="portproton proton wine windows fedora fedoralinux linux"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Снимок экрана от 2022-11-09 07-58-13 (1) (1) (1) (1).png" alt="portproton proton wine windows fedora fedoralinux linux"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Снимок экрана от 2022-11-09 07-58-16 (1).png" alt="portproton proton wine windows fedora fedoralinux linux"><figcaption></figcaption></figure>
 
