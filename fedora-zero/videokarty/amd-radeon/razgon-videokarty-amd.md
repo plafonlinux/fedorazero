@@ -13,7 +13,7 @@ description: Как включить разгон на AMD?!
 Параметры выше, нужно добавить через пробел в `/etc/default/grub`
 
 ```bash
-sudo vim /etc/default/grub
+sudo gnome-text-editor /etc/default/grub
 ```
 
 Должно получится примерно так (_**кавычки важны!**_):
