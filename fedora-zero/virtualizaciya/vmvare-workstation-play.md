@@ -77,7 +77,7 @@ systemctl status vmware.service
 ## Включаем 3D-ускорение:
 
 ```bash
-sudo vim ~/.vmware/preferences 
+sudo gnome-text-editor ~/.vmware/preferences 
 ```
 
 надо добавить строчку
