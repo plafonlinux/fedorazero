@@ -9,7 +9,7 @@
 В терминале (CTRL+ALT+T) выполняем:
 
 ```bash
-sudo vim /etc/dnf/dnf.conf
+sudo gnome-text-editor /etc/dnf/dnf.conf
 ```
 
 и вставляем отсутвующие параметры:
