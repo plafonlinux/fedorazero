@@ -26,8 +26,12 @@ coverY: 0
 
 <summary>Как угостить автора кофе?</summary>
 
-**Спонсорство на YouTube:** [https://bit.ly/3MHNzWa](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbEx4ZFh4eTRoOVgteDJhUDRwUTR6dng2Wmd2Z3xBQ3Jtc0tsNXd1QUdCc1l3ZzFta3V1UWVaalk1bl9oVlkwWF83VXNDdHNyTEZ4amV4NmhWeFZ1WE5waldUeDBCWTl6Q2xNOWpHTk5fOXJNUWpSUWo5UzF1OW9IcVd5Y2NkUXVHN3loM2dveFdiT0pmejVOdlZzaw\&q=https%3A%2F%2Fbit.ly%2F3MHNzWa\&v=PXZtfis4CdM)&#x20;
+## ☕ Как угостить автора кофе? ☕
 
-Patreon: [https://patreon.com/plafonlinux](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqa2JNNHBsYllJVTR1ckM1cDBHakVBZnpaSFBUd3xBQ3Jtc0trRHVPR1NQR3FzVGM1M2VHVGJSdjBVcWY0cjJGZDBzNk5zdXFMYVZiRjl1SXZPRmlVcHRQbUtoVXBtNXppU1RHRGdwTXgwQk5vUWdkeHVaMllIRkZjWG02ZWRNR0ctOEl3U19aMEp4d2NLYy1qbGZsNA\&q=https%3A%2F%2Fpatreon.com%2Fplafonlinux\&v=PXZtfis4CdM)
+📺 Спонсорство на [YouTube](https://bit.ly/3MHNzWa) | [Стать спонсором проекта PLAFON](https://bit.ly/3MHNzWa)
+
+💵 Заказать рекламу в [Телеграме](https://t.me/plafonyoutube) | 💬 По вопросам рекламы: [Aнтон](https://t.me/Toxblh)
+
+Поддержать на Boosty: [https://boosty.to/plafonlinux/donate](https://boosty.to/plafonlinux/donate)
 
 </details>
