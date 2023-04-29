@@ -13,7 +13,7 @@ sudo mkdir /etc/X11/xorg.conf.d/
 ```
 
 ```bash
-sudo vim /etc/X11/xorg.conf.d/20-nvidia.conf
+sudo gnome-text-editor /etc/X11/xorg.conf.d/20-nvidia.conf
 ```
 
 далее добавляем в файл:

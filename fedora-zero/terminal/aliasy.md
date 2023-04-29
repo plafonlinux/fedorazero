@@ -56,4 +56,9 @@ description: Alias
     alias flr="flatpak remove --noninteractive -y"
     alias fr="flatpak repair"
     alias fl="flatpak list"
+    #
+    #
+    #
+    alias gte="gnome-text-editor"
 ```
+
