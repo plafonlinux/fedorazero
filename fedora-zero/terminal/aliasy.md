@@ -60,5 +60,6 @@ description: Alias
     #
     #
     alias gte="gnome-text-editor"
+    alias sgte="sudo gnome-text-editor"
 ```
 
