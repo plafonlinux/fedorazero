@@ -13,7 +13,7 @@ sudo dnf install corectrl
 ### Отключаем постоянные запросы пароля
 
 ```bash
-sudo nano /etc/polkit-1/rules.d/90-corectrl.rules
+sudo gnome-text-editor /etc/polkit-1/rules.d/90-corectrl.rules
 ```
 
 и вставляем это:
@@ -32,10 +32,6 @@ polkit.addRule(function(action, subject) {
 ```
 
 Меняем `your-user-group` на имя пользователя в системе и сохраняем всё:
-
-{% hint style="success" %}
-CTRL+O, ENTER, CTRL+X
-{% endhint %}
 
 {% hint style="warning" %}
 Перезагружаем ПК
