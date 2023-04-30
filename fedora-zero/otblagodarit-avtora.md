@@ -2,7 +2,7 @@
 description: Понравился данный гайд? Оставь автору на кофе!
 ---
 
-# 💰 Отблагодарить автора
+# 💰 Отблагодарить автора!
 
 <div>
 
@@ -21,3 +21,16 @@ description: Понравился данный гайд? Оставь автор
 💰 Поддержать на Boosty: [https://boosty.to/plafonlinux/donate](https://boosty.to/plafonlinux/donate)
 
 <figure><img src="../.gitbook/assets/Coffee break-amico.png" alt="" width="375"><figcaption></figcaption></figure>
+
+📺 ИЛИ ПОДПИСЫВАЙТЕСЬ НА САМУЮ УДОБНУЮ ДЛЯ ВАС СОЦСЕТЬ:
+
+🚁 VK: [vk.com/plafonvk](https://vk.com/plafonvk)&#x20;
+
+🛸 Телеграм: [@plafonyoutube](https://t.me/plafonyoutube)&#x20;
+
+🛸 Чат: [@plafonchat](https://t.me/plafonchat)&#x20;
+
+⚗️ Яндекс Дзен: [dzen.ru/plafon](https://dzen.ru/plafon)&#x20;
+
+💳 Boosty: [boosty.to/plafonlinux](https://boosty.to/plafonlinux)
+

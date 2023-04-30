@@ -27,3 +27,15 @@
 💵 Заказать рекламу в [Телеграме](https://t.me/plafonyoutube) | 💬 По вопросам рекламы: [Aнтон](https://t.me/Toxblh)
 
 Поддержать на Boosty: [https://boosty.to/plafonlinux/donate](https://boosty.to/plafonlinux/donate)
+
+📺 ИЛИ ПОДПИСЫВАЙТЕСЬ НА САМУЮ УДОБНУЮ ДЛЯ ВАС СОЦСЕТЬ:
+
+🚁 VK: [vk.com/plafonvk](https://vk.com/plafonvk)&#x20;
+
+🛸 Телеграм: [@plafonyoutube](https://t.me/plafonyoutube)&#x20;
+
+🛸 Чат: [@plafonchat](https://t.me/plafonchat)&#x20;
+
+⚗️ Яндекс Дзен: [dzen.ru/plafon](https://dzen.ru/plafon)&#x20;
+
+💳 Boosty: [boosty.to/plafonlinux](https://boosty.to/plafonlinux)
