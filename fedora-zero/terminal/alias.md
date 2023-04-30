@@ -57,9 +57,20 @@ description: Alias
     alias fr="flatpak repair"
     alias fl="flatpak list"
     #
-    #
+    # Gnome Text Editor
     #
     alias gte="gnome-text-editor"
     alias sgte="sudo gnome-text-editor"
+    #
+    # System folders
+    #
+    alias fstab="sudo vim /etc/fstab"
+    alias zshrc="vim .zshrc"
+    alias grubedit="sudo vim /etc/default/grub"
+    alias upgrub="sudo grub2-mkconfig -o /boot/grub2/grub.cfg"
+    #
+    #
+    #
+
 ```
 
