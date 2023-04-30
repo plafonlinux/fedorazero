@@ -7,7 +7,6 @@
 
 ## 🐧 Fedora Zero
 
-* [💡 Что такое Fedora Zero?](fedora-zero/chto-takoe-fedora-zero.md)
 * [🦉 В самом начале ...](fedora-zero/v-samom-nachale-.../README.md)
   * [Разметка диска](fedora-zero/v-samom-nachale-.../razmetka-diska.md)
   * [Как примонтировать диск в систему](fedora-zero/v-samom-nachale-.../kak-primontirovat-disk-v-sistemu.md)
@@ -86,8 +85,9 @@
 * [🧬 Виртуализация](fedora-zero/virtualizaciya/README.md)
   * [Gnome Boxes](fedora-zero/virtualizaciya/gnome-boxes.md)
   * [VMVare Workstation Play](fedora-zero/virtualizaciya/vmvare-workstation-play.md)
-* [💰 Отблагодарить автора](fedora-zero/otblagodarit-avtora.md)
+* [💰 Отблагодарить автора!](fedora-zero/otblagodarit-avtora.md)
 
 ## ☢ АРХИВ
 
 * [\[Архивировано\] DaVinci Resolve](arkhiv/arkhivirovano-davinci-resolve.md)
+* [Что такое Fedora Zero?](arkhiv/chto-takoe-fedora-zero.md)
