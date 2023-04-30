@@ -86,8 +86,3 @@
   * [Gnome Boxes](fedora-zero/virtualizaciya/gnome-boxes.md)
   * [VMVare Workstation Play](fedora-zero/virtualizaciya/vmvare-workstation-play.md)
 * [💰 Отблагодарить автора!](fedora-zero/otblagodarit-avtora.md)
-
-## ☢ АРХИВ
-
-* [\[Архивировано\] DaVinci Resolve](arkhiv/arkhivirovano-davinci-resolve.md)
-* [Что такое Fedora Zero?](arkhiv/chto-takoe-fedora-zero.md)
