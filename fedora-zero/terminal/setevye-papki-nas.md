@@ -4,7 +4,7 @@ description: Как примонтировать сетевые папки с NA
 
 # Сетевые папки (NAS)
 
-<figure><img src="../../.gitbook/assets/dfdfdfdfdfdfd.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dsdsajhhhhhhhhhhhhhhhhh.png" alt=""><figcaption></figcaption></figure>
 
 Я монтирую свои папки на Synology в fstab вот так:
 
