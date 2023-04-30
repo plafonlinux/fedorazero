@@ -20,13 +20,19 @@
 Подробный гайд по настройке Fedora Linux
 {% endembed %}
 
-## ☕ Как угостить автора кофе? ☕
+<details>
+
+<summary>☕ Как угостить автора кофе? ☕</summary>
+
+
 
 📺 Спонсорство на [YouTube](https://bit.ly/3MHNzWa) | [Стать спонсором проекта PLAFON](https://bit.ly/3MHNzWa)
 
 💵 Заказать рекламу в [Телеграме](https://t.me/plafonyoutube) | 💬 По вопросам рекламы: [Aнтон](https://t.me/Toxblh)
 
 Поддержать на Boosty: [https://boosty.to/plafonlinux/donate](https://boosty.to/plafonlinux/donate)
+
+
 
 📺 ИЛИ ПОДПИСЫВАЙТЕСЬ НА САМУЮ УДОБНУЮ ДЛЯ ВАС СОЦСЕТЬ:
 
@@ -39,3 +45,5 @@
 ⚗️ Яндекс Дзен: [dzen.ru/plafon](https://dzen.ru/plafon)&#x20;
 
 💳 Boosty: [boosty.to/plafonlinux](https://boosty.to/plafonlinux)
+
+</details>
