@@ -18,4 +18,8 @@
 
 Структура файла .smb:
 
-user=имя\_пользователя password=пароль\_учетки domain=WORKGROUP
+```
+user=имя_пользователя
+password=пароль_учетки
+domain=WORKGROUP
+```
