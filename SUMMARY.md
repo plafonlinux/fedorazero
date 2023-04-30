@@ -86,6 +86,7 @@
 * [🧬 Виртуализация](fedora-zero/virtualizaciya/README.md)
   * [Gnome Boxes](fedora-zero/virtualizaciya/gnome-boxes.md)
   * [VMVare Workstation Play](fedora-zero/virtualizaciya/vmvare-workstation-play.md)
+* [💰 Отблагодарить автора](fedora-zero/otblagodarit-avtora.md)
 
 ## ☢ АРХИВ
 
