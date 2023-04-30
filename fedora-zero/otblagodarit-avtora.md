@@ -6,11 +6,11 @@ description: Понравился данный гайд? Оставь автор
 
 <div>
 
-<figure><img src="../.gitbook/assets/Shawarma-pana.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Shawarma-pana.png" alt="" width="188"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Mulled wine-pana.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Mulled wine-pana.png" alt="" width="188"><figcaption></figcaption></figure>
 
 </div>
 
@@ -19,3 +19,5 @@ description: Понравился данный гайд? Оставь автор
 💵 Заказать рекламу в [Телеграме](https://t.me/plafonyoutube) | 💬 По вопросам рекламы: [Aнтон](https://t.me/Toxblh)
 
 💰 Поддержать на Boosty: [https://boosty.to/plafonlinux/donate](https://boosty.to/plafonlinux/donate)
+
+<figure><img src="../.gitbook/assets/Coffee break-amico.png" alt="" width="375"><figcaption></figcaption></figure>
