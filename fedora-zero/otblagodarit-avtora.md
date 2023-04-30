@@ -4,7 +4,15 @@ description: Понравился данный гайд? Оставь автор
 
 # 💰 Отблагодарить автора
 
-<figure><img src="../.gitbook/assets/Pasta-rafiki.png" alt="" width="375"><figcaption></figcaption></figure>
+<div>
+
+<figure><img src="../.gitbook/assets/Shawarma-pana.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Mulled wine-pana.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 📺 Спонсорство на [YouTube](https://bit.ly/3MHNzWa) | [Стать спонсором проекта PLAFON](https://bit.ly/3MHNzWa)
 
