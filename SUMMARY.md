@@ -52,6 +52,7 @@
   * [Inkscape](fedora-zero/apps/inkscape.md)
   * [YouTube Music](fedora-zero/apps/youtube-music.md)
   * [Spotify](fedora-zero/apps/spotify.md)
+  * [Yandex Browser](fedora-zero/apps/yandex-browser.md)
   * [Folliate](fedora-zero/apps/folliate.md)
   * [Calibre](fedora-zero/apps/calibre.md)
   * [ProtonUP-Qt](fedora-zero/apps/protonup-qt.md)
