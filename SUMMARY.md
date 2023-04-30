@@ -82,6 +82,7 @@
   * [Терминал на ZSH](fedora-zero/terminal/terminal-na-zsh.md)
   * [Neofetch](fedora-zero/terminal/neofetch.md)
   * [Алиасы](fedora-zero/terminal/aliasy.md)
+* [Монтирование удаленного накопителя (NAS)](fedora-zero/montirovanie-udalennogo-nakopitelya-nas.md)
 * [🧬 Виртуализация](fedora-zero/virtualizaciya/README.md)
   * [Gnome Boxes](fedora-zero/virtualizaciya/gnome-boxes.md)
   * [VMVare Workstation Play](fedora-zero/virtualizaciya/vmvare-workstation-play.md)
