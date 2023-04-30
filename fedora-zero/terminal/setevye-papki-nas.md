@@ -1,4 +1,10 @@
-# Монтирование удаленного накопителя (NAS)
+---
+description: Как примонтировать сетевые папки с NAS в Fedora Linux
+---
+
+# Сетевые папки (NAS)
+
+<figure><img src="../../.gitbook/assets/dfdfdfdfdfdfd.png" alt=""><figcaption></figcaption></figure>
 
 Я монтирую свои папки на Synology в fstab вот так:
 
