@@ -2,11 +2,11 @@
 description: KDE Connect для GNOME
 ---
 
-# GS Connect
+# GS Connect (KDE Connect)
 
 Устанавливаем: `GSConnect`
 
-<figure><img src="../../../.gitbook/assets/Снимок экрана от 2022-10-29 13-30-00.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-29 13-30-00.png" alt=""><figcaption></figcaption></figure>
 
 ### Настраиваем Firewall:
 

@@ -1,3 +1,7 @@
+---
+description: Как подключить Xbox контроллер в Линуксе
+---
+
 # Xbox контроллер
 
 <figure><img src="../../.gitbook/assets/1634980031764 (1).jpg" alt=""><figcaption></figcaption></figure>
