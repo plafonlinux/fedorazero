@@ -4,6 +4,8 @@ description: Выжимка команд для VIM
 
 # VIM
 
+<figure><img src="../../../../.gitbook/assets/Снимок экрана от 2023-05-01 01-49-49.png" alt=""><figcaption></figcaption></figure>
+
 :e /название\_файла               - открыть файл
 
 :w                                             - записать изменения
