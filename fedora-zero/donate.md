@@ -4,15 +4,7 @@ description: Понравился данный гайд? Оставь автор
 
 # 💰 Помощь проекту
 
-<div>
-
 <figure><img src="../.gitbook/assets/Shawarma-pana.png" alt="" width="188"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Mulled wine-pana.png" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
 
 📺 Спонсорство на [YouTube](https://bit.ly/3MHNzWa) | [Стать спонсором проекта PLAFON](https://bit.ly/3MHNzWa)
 
