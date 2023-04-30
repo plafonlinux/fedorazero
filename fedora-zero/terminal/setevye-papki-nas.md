@@ -8,6 +8,10 @@ description: Как примонтировать сетевые папки с NA
 
 Я монтирую свои папки на Synology в fstab вот так:
 
+```bash
+sudo gnome-text-editor /etc/fstab
+```
+
 `//192.135.9.146/home/syno/Drive /mnt/Drive cifs uid=0,credentials=/home/username/.smb,iocharset=utf8,vers=3.0,noperm 0 0`
 
 Предварительно создав директорию куда монтировать:
