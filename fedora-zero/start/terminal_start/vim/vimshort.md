@@ -6,6 +6,10 @@ description: Выжимка команд для VIM
 
 <figure><img src="../../../../.gitbook/assets/Снимок экрана от 2023-05-01 01-49-49.png" alt=""><figcaption></figcaption></figure>
 
+Для запуска обучения наберите:
+
+> vimtutor
+
 **:e /название\_файла**              - открыть файл
 
 **:w**                                          - записать изменения
