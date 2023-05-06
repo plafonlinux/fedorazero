@@ -30,11 +30,15 @@
 
 💵 Заказать рекламу в [Телеграме](https://t.me/plafonyoutube) | 💬 По вопросам рекламы: [Aнтон](https://t.me/Toxblh)
 
+💳 Donation Allerts: [donationalerts.com/r/donplafon](https://www.donationalerts.com/r/donplafon)
+
 Поддержать на Boosty: [https://boosty.to/plafonlinux/donate](https://boosty.to/plafonlinux/donate)
 
 
 
 📺 ИЛИ ПОДПИСЫВАЙТЕСЬ НА САМУЮ УДОБНУЮ ДЛЯ ВАС СОЦСЕТЬ:
+
+
 
 🚁 VK: [vk.com/plafonvk](https://vk.com/plafonvk)&#x20;
 
