@@ -10,7 +10,9 @@ description: Понравился данный гайд? Оставь автор
 
 💵 Заказать рекламу в [Телеграме](https://t.me/plafonyoutube) | 💬 По вопросам рекламы: [Aнтон](https://t.me/Toxblh)
 
-💰 Поддержать на Boosty: [https://boosty.to/plafonlinux/donate](https://boosty.to/plafonlinux/donate)
+💳 Donation Allerts: [donationalerts.com/r/donplafon](https://www.donationalerts.com/r/donplafon)
+
+💰 Поддержать на Boosty: [boosty.to/plafonlinux/donate](https://boosty.to/plafonlinux/donate)
 
 <figure><img src="../.gitbook/assets/Coffee break-amico.png" alt="" width="375"><figcaption></figcaption></figure>
 
