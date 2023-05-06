@@ -32,7 +32,7 @@
 
 💳 Donation Allerts: [donationalerts.com/r/donplafon](https://www.donationalerts.com/r/donplafon)
 
-Поддержать на Boosty: [https://boosty.to/plafonlinux/donate](https://boosty.to/plafonlinux/donate)
+💰 Поддержать на Boosty: [https://boosty.to/plafonlinux/donate](https://boosty.to/plafonlinux/donate)
 
 
 
