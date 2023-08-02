@@ -71,6 +71,31 @@ description: Alias
     #
     #
     #
-
+#
+    # DaVinci Resolve
+    #
+    alias convertmp4="find . -name '*.[mM][pP]4' -execdir ffmpeg -i '{}' -c:v mpeg4 -qscale:v 1 -c:a pcm_s32le {}-davinci.mov \;"
+    alias convertmkv="find . -name '*.[mM][kK][vV]' -execdir ffmpeg -i '{}' -c:v mpeg4 -qscale:v 1 -c:a pcm_s32le {}-davinci.mov \;"
+    alias convertmov="find . -name '*.[mM][oO][vV]' -execdir ffmpeg -i '{}' -c:v mpeg4 -qscale:v 1 -c:a pcm_s32le {}-davinci.mov \;"
+    alias davinciconvdir="mkdir davinci;find . -name '*davinci.mov' -execdir mv {} ./davinci/ \;|cd davinci;rm -rf *'davinci.mov-davinci.mov'"
+    alias convertall="convertmp4 && convertmkv && convertmov && davinciconvdir"
+    #alias deletesource="ls | rm -rf *.mp4 && *.mov && *.mkv"
+    alias convert="convertmp4 && convertmkv && convertmov && && davinciconvdir"
+    #
+    #
+    #
+    alias fstab="sudo vim /etc/fstab"
+    alias zshrc="vim .zshrc"
+    alias grubed="sudo vim /etc/default/grub"
+    alias grubup="sudo grub2-mkconfig -o /boot/grub2/grub.cfg"
+    alias cdvar="cd ~/.var/"
+    alias cdconf="cd ~/.config/"
+    alias cdssd="cd /mnt/davincissd"
+    alias sn="sudo nautilus"
+    #
+    #
+    #
+    alias vmax="sudo sysctl -w vm.max_map_count=2147483642"
+    alias vmax_check="sysctl -a | grep vm.max"
 ```
 
