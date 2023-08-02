@@ -83,3 +83,20 @@ Number of devices                                 1
 ................
 ```
 
+
+
+## Возможные ошибки
+
+В Fedora 37 необходимо доустановить эту библиотеку
+
+```bash
+sudo dnf install mesa-libGLU
+```
+
+В Fedora 38 если выдает подобную ошибку:
+
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2023-08-02 17-49-22.png" alt=""><figcaption></figcaption></figure>
+
+```bash
+sudo cp /usr/lib64/libglib-2.0.so.0 /opt/resolve/libs/
+```
