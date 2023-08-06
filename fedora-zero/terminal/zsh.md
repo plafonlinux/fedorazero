@@ -30,18 +30,18 @@ sudo dnf install zsh
 grep tecmint /etc/passwd
 ```
 
-```bash
-chsh -s $(which zsh)
-```
-
-```bash
-grep tecmint /etc/passwd
-```
-
 {% hint style="info" %}
 Перезапускаем ПК
 {% endhint %}
 
+Устанавливаем все плагины
+
 ```bash
 zsh
 ```
+
+Включаем zsh по-умолчанию
+
+
+
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2023-08-06 08-19-33.png" alt=""><figcaption></figcaption></figure>
