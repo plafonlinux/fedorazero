@@ -25,8 +25,7 @@ description: Alias
     alias g="gnome-shell --version"
     alias f="lsb_release -sd"
     alias m="inxi -G |grep Mesa"
-    alias age="stat / | grep Создан:
-    c"
+    alias age="stat / | grep Birth"
     alias ram="sudo dmidecode -t memory | grep Speed"
     alias cpu="lscpu | grep Имя"
     alias cpuc="lscpu"
