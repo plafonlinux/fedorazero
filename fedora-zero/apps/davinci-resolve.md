@@ -100,3 +100,13 @@ sudo dnf install mesa-libGLU
 ```bash
 sudo cp /usr/lib64/libglib-2.0.so.0 /opt/resolve/libs/
 ```
+
+### Если DaVinci Resolve 18.5 не запускается на Fedora 38 и выдаёт подобную ошибку:
+
+> /opt/resolve/bin/resolve: symbol lookup error: /lib64/libpango-1.0.so.0: undefined symbol: g\_string\_free\_and\_steal
+
+Попробуйте это, мне помогло:
+
+```bash
+sudo cp /usr/lib64/libglib-2.0.so.0 /opt/resolve/libs/
+```
