@@ -27,3 +27,9 @@ flatpak remove org.название.приложения
 ```bash
 flatpak remove --unused
 ```
+
+Удаление папки и конфигов с каталога `/var`
+
+```bash
+flatpak remove --delete-data
+```
