@@ -41,6 +41,7 @@
     * [Утилита GWE](fedora-zero/videokarta/nvidia/gwe.md)
 * [💻 Приложения](fedora-zero/apps/README.md)
   * [Flatpak](fedora-zero/apps/flatpak.md)
+  * [Браузеры](fedora-zero/apps/brauzery.md)
   * [Telegram](fedora-zero/apps/telegram.md)
   * [Thunderbird](fedora-zero/apps/thunderbird.md)
   * [OnlyOffice](fedora-zero/apps/onlyoffice.md)
