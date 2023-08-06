@@ -2,7 +2,7 @@
 
 ### Управление Flatpak приложениями
 
-<figure><img src="../../.gitbook/assets/umdrQefsMAY.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/umdrQefsMAY.jpg" alt=""><figcaption></figcaption></figure>
 
 Обновить все Flatpak приложения:
 
