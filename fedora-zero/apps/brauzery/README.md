@@ -12,6 +12,12 @@ description: Стандартным и идеальным браузером в 
 sudo dnf install firefox
 ```
 
+### Дополнительные возможности:
+
+В адресной строке вбиваем `about:config` и соглашаемся с рисками:
+
+<figure><img src="../../../.gitbook/assets/Снимок экрана от 2023-08-08 06-54-41.png" alt=""><figcaption></figcaption></figure>
+
 * Включаем WebRender в Firefox
 
 `gfx.webrender.all` ставим на `true`&#x20;
