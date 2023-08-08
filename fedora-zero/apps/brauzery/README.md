@@ -12,4 +12,24 @@ description: Стандартным и идеальным браузером в 
 sudo dnf install firefox
 ```
 
-Но возможно тебе этого мало ....
+* Включаем WebRender в Firefox
+
+`gfx.webrender.all` ставим на `true`&#x20;
+
+`widget.wayland-dmabuf-vaapi` ставим на `true`&#x20;
+
+`widget.wayland-dmabuf-vaapi.enabled` ставим на `true`
+
+* Включаем кинетический скролл:
+
+`apz.gtk.kinetic_scroll.enabled` ставим на true Настраиваем скорость (по умолчанию 100)&#x20;
+
+`mousewheel.default.delta_multiplier_` ставим на true&#x20;
+
+`mousewheel.default.delta_multiplier_x` нужное число&#x20;
+
+`mousewheel.default.delta_multiplier_y` нужное число&#x20;
+
+`mousewheel.default.delta_multiplier_z` нужное число
+
+### Но возможно тебе этого мало ....
