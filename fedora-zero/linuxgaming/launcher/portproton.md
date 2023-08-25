@@ -18,34 +18,16 @@ description: Запускаем приложения/игры Windows через
 
 <figure><img src="../../../.gitbook/assets/Снимок экрана от 2022-11-09 07-47-48.png" alt="portproton proton wine windows fedora fedoralinux linux"><figcaption></figcaption></figure>
 
-### Включаем Non-free репозиторий:
+### Добавляем copr репозиторий:
 
 ```bash
-sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+sudo dnf copr enable boria138/portproton
 ```
 
-### Устанавливаем зависимости:
+### Устанавливаем сам PortProton:
 
 ```bash
-sudo dnf update && sudo dnf upgrade --refresh && sudo dnf install curl gamemode icoutils libcurl wget zenity bubblewrap zstd cabextract tar goverlay openssl
-```
-
-Стандартная установка:
-
-```bash
-wget -c "https://github.com/Castro-Fidel/PortWINE/raw/master/portwine_install_script/PortProton_1.0" && sh PortProton_1.0
-```
-
-Тихая установка (RUS):
-
-```bash
-wget -c "https://github.com/Castro-Fidel/PortWINE/raw/master/portwine_install_script/PortProton_1.0" && sh PortProton_1.0 -rus
-```
-
-Тихая установка (ENG):
-
-```bash
-wget -c "https://github.com/Castro-Fidel/PortWINE/raw/master/portwine_install_script/PortProton_1.0" && sh PortProton_1.0 -eng
+sudo dnf update && sudo dnf upgrade --refresh && sudo dnf install portproton
 ```
 
 <figure><img src="../../../.gitbook/assets/Снимок экрана от 2022-11-09 07-58-13 (1) (1) (1) (1).png" alt="portproton proton wine windows fedora fedoralinux linux"><figcaption></figcaption></figure>
