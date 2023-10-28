@@ -90,6 +90,7 @@
   * [Neofetch](fedora-zero/terminal/neofetch.md)
   * [Алиасы](fedora-zero/terminal/alias.md)
   * [GitHub](fedora-zero/terminal/github.md)
+  * [Samba](fedora-zero/terminal/samba.md)
   * [Сетевые папки (NAS)](fedora-zero/terminal/nas.md)
 * [🧬 Виртуализация](fedora-zero/virtualka/README.md)
   * [Gnome Boxes](fedora-zero/virtualka/gnome-boxes.md)
