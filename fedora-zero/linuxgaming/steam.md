@@ -24,6 +24,38 @@ flatpak install flathub com.valvesoftware.Steam
 
 <figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-29 10-56-36.png" alt=""><figcaption></figcaption></figure>
 
+### Включаем мониторинг игр MangoHud в Steam Flatpak
+
+
+
+```bash
+flatpak install org.freedesktop.Platform.VulkanLayer.MangoHud
+```
+
+Включить для всех игр разом:
+
+```bash
+flatpak override --user --env=MANGOHUD=1 com.valvesoftware.Steam
+```
+
+Отключить для всех игр разом:
+
+```bash
+flatpak override --user --env=MANGOHUD=0 com.valvesoftware.Steam
+```
+
+Включить отдельно для каждой игры в Steam (Vulkan + OpenGL):
+
+```bash
+mangohud %command%
+```
+
+Включить отдельно для каждой игры в Steam (только Vulkan):
+
+```bash
+MANGOHUD=1
+```
+
 ### Мой диск не видно в Steam из Flatpak
 
 Добавляем путь до нашего `диска/каталога` в утилите `Flatseal`
