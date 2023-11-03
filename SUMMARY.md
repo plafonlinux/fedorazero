@@ -94,6 +94,7 @@
   * [Samba](fedora-zero/terminal/samba.md)
   * [Сетевые папки (NAS)](fedora-zero/terminal/nas.md)
 * [🧬 Виртуализация](fedora-zero/virtualka/README.md)
+  * [Virtual Box](fedora-zero/virtualka/virtual-box.md)
   * [Gnome Boxes](fedora-zero/virtualka/gnome-boxes.md)
   * [VMVare Workstation Play](fedora-zero/virtualka/vmvare.md)
 * [💰 Помощь проекту](fedora-zero/donate.md)
